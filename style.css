@@ -9,9 +9,5 @@
 
 .all-divs div {
     display: flex;
-}
-
-.all-divs {
-    width: 593px;
-    height: 265px;
+    flex-wrap: wrap;
 }
